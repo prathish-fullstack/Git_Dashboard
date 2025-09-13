@@ -10,7 +10,7 @@ I am also familiar with **Java (OOPs concepts)** and have an interest in **Data 
 I enjoy building scalable applications and continuously improving my skills in backend and full stack development with the goal of solving real-world problems and growing as a software professional.
 
 <p align="right">
-  <img src="https://github.com/Prathish-fullstack/Prathish-fullstack/blob/main/code.png" alt="Coding Fun" width="250">
+  <img src="https://github.com/prathish-fullstack/Git_Dashboard/blob/main/Code%20updated.png" width="250">
 </p>
 
 ---
