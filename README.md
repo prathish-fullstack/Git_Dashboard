@@ -1,17 +1,27 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/prathish-fullstack/Git_Dashboard/blob/main/github%20banner.png">
+  <img src="https://github.com/prathish-fullstack/Git_Dashboard/blob/main/github%20banner.png" alt="Prathish Banner" width="100%">
 </p>
+
+---
 
 # 💫 About Me:
-Hi, I’m **Prathish**, an aspiring Software Developer with a strong foundation in **Python Full Stack Development**.<br>
-I have experience in **Core Python, Django framework, Oracle SQL, HTML, and CSS**.  
-I am also familiar with **Java (OOPs concepts)** and have an interest in **Data Analytics**.<br>
-I enjoy building scalable applications and continuously improving my skills in backend and full stack development with the goal of solving real-world problems and growing as a software professional.
+<table>
+<tr>
+<td width="70%">
+  
+Hi, I’m **Prathish**, an aspiring **Software Developer** with a strong foundation in **Python Full Stack Development**.<br><br>
+💻 Experienced in **Core Python, Django framework, Oracle SQL, HTML, and CSS**.  
+☕ Familiar with **Java (OOP concepts)** and exploring **Data Analytics**.  
+🚀 Passionate about building **scalable applications** and solving **real-world problems**.  
+🌱 Always learning and improving to grow as a **software professional**.
 
-<p align="right">
-  <img src="https://github.com/prathish-fullstack/Git_Dashboard/blob/main/Code%20updated.png" width="250">
-</p>
+</td>
+<td width="30%" align="center">
+  <img src="https://github.com/prathish-fullstack/Git_Dashboard/blob/main/Code%20updated.png" alt="Coding Fun" width="200">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,7 +41,6 @@ I enjoy building scalable applications and continuously improving my skills in b
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
@@ -49,7 +58,7 @@ I enjoy building scalable applications and continuously improving my skills in b
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prathish-fullstack&theme=date_night&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Prathish-fullstack&theme=date_night&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathish-fullstack&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathish-fullstack&theme=date_night&hide_border=true&layout=compact)
 
 ---
 
@@ -65,4 +74,3 @@ I enjoy building scalable applications and continuously improving my skills in b
 
 [![](https://visitcount.itsvg.in/api?id=Prathish-fullstack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
