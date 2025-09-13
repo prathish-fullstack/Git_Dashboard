@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Prathish-fullstack/Prathish-fullstack/blob/main/banner.png" alt="Hey! I am Prathish" width="100%">
+  <img src="https://github.com/prathish-fullstack/Git_Dashboard/blob/main/github%20banner.png">
 </p>
 
 # 💫 About Me:
